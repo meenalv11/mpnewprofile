@@ -1,0 +1,26 @@
+hr{
+  border: 2px dotted gray;
+   border-radius: 5px;
+}
+.top-container{
+  padding: 10px;
+  text-align: center;
+}
+.m-container{
+text-align: center;
+
+}
+.b-container{
+  text-align:justify;
+}
+h2{
+  text-align: center;
+}
+.l-container{
+  font-size: 30px;
+  font-family: serif;
+}
+h3
+{
+  text-align: center;
+}
